@@ -4,4 +4,6 @@
 
 [设计模式的分类](./src/main/notes/设计模式的分类.md)
 
-[单一职责原则](./src/main/notes/单一职责原则.md)
+#### 六大设计原则
+
+1. [单一职责原则](./src/main/notes/单一职责原则.md)
