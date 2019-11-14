@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d66787-b6e7-4a2e-b115-f5c0243e7b06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/里氏替换原则/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/polymorphism.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/依赖倒置原则/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/notes/里氏替换原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/里氏替换原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/notes/面向对象的三大特性--继承、封装和多态.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/面向对象的三大特性--继承、封装和多态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Son.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +47,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="依赖倒置原则" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Hao\Documents\IdeaProjects\The-Zen-of-Design-Patterns\src\main\resources" />
       <recent name="E:\Hao\Documents\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes" />
@@ -68,7 +80,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="依赖倒置原则.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="依赖倒置原则.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="里氏替换原则.Client" />
       <module name="The-Zen-of-Design-Patterns" />
@@ -84,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
