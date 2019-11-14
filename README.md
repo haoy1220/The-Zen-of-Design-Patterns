@@ -11,3 +11,5 @@
 1. [单一职责原则](./src/main/notes/单一职责原则.md)
 
 2. [里氏替换原则](./src/main/notes/里氏替换原则.md)
+
+3. [依赖倒置原则](./src/main/notes/依赖倒置原则.md)
