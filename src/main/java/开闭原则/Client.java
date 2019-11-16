@@ -11,10 +11,17 @@ public class Client {
     private final static ArrayList<Book> books = new ArrayList<Book>();
 
     static {
-        books.add(new NovelBook("大家安静", 3050, "打"));
-        books.add(new NovelBook("大家安静2", 3004, "打"));
-        books.add(new NovelBook("大家安静3", 3020, "打"));
-        books.add(new NovelBook("大家安静4", 3300, "打"));
+        books.add(new NovelBook("大家安静", 3000, "打"));
+        books.add(new NovelBook("大家安静2", 4000, "打"));
+        books.add(new NovelBook("大家安静3", 5000, "打"));
+        books.add(new NovelBook("大家安静4", 2000, "打"));
+    }
+
+    static {
+        books.add(new OffNovelBook("大家安静", 3000, "打"));
+        books.add(new OffNovelBook("大家安静2", 4000, "打"));
+        books.add(new OffNovelBook("大家安静3", 5000, "打"));
+        books.add(new OffNovelBook("大家安静4", 2000, "打"));
     }
 
     public static void main(String[] args) {
@@ -61,5 +68,31 @@ class NovelBook implements Book {
 
     public String getAuthor() {
         return this.author;
+    }
+}
+
+class OffNovelBook extends NovelBook {
+    public OffNovelBook(String _name, int _price, String _author) {
+        super(_name, _price, _author);
+    }
+
+
+    @Override
+    public int getPrice() {
+//        if (super.getPrice() > 40) {
+//            return (int) (super.getPrice() * 0.9);
+//        } else {
+//            return (int) (super.getPrice() * 0.8);
+//        }
+
+        int seltPrice = super.getPrice();
+        int offPrice = 0;
+        if (seltPrice > 4000) {
+            offPrice = seltPrice * 90 / 100;
+
+        } else {
+            offPrice = seltPrice * 80 / 100;
+        }
+        return offPrice;
     }
 }

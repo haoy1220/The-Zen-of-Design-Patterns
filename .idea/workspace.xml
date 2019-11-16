@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0f5c90-faae-4849-825d-4e4035248a2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/notes/开闭原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/开闭原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/开闭原则/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/开闭原则/Client.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/notes/开闭原则.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1036">
+              <first_editor relative-caret-position="597">
                 <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               </first_editor>
               <second_editor />
@@ -99,13 +99,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/开闭原则/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="868">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="-350">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1568#1569#0" expanded="true" />
+                <element signature="e#1613#1614#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,8 +155,8 @@
         <option value="$PROJECT_DIR$/src/main/notes/迪米特原则.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" />
-        <option value="$PROJECT_DIR$/src/main/java/开闭原则/Client.java" />
         <option value="$PROJECT_DIR$/src/main/notes/开闭原则.md" />
+        <option value="$PROJECT_DIR$/src/main/java/开闭原则/Client.java" />
       </list>
     </option>
   </component>
@@ -179,6 +181,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,8 +243,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,17 +360,18 @@
       <workItem from="1573834855401" duration="1254000" />
       <workItem from="1573836151603" duration="1862000" />
       <workItem from="1573865706847" duration="424000" />
+      <workItem from="1573867804100" duration="547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8180000" />
+    <option name="totallyTimeSpent" value="8727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24731903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -378,7 +381,7 @@
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.04249292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42917848" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,16 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/开闭原则/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="868">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/notes/迪米特原则.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -517,10 +510,22 @@
     <entry file="file://$PROJECT_DIR$/src/main/notes/开闭原则.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1036">
+          <first_editor relative-caret-position="597">
             <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/开闭原则/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1613#1614#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
