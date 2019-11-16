@@ -9,8 +9,13 @@
 #### 六大设计原则
 
 1. [单一职责原则](./src/main/notes/单一职责原则.md)
+
 2. [里氏替换原则](./src/main/notes/里氏替换原则.md)
+
 3. [依赖倒置原则](./src/main/notes/依赖倒置原则.md)
+
 4. [接口隔离原则](./src/main/notes/接口隔离原则.md)
+
 5. [迪米特原则](./src/main/notes/迪米特原则.md)
+
 6. [开闭原则](./src/main/notes/开闭原则.md)
