@@ -1,0 +1,27 @@
+@startuml
+
+abstract class Product
+
+note right of Product:负责定义产品的共性，\n实现对事物最抽象的定义。
+
+class ConcreteProduct
+
+Product <|-- ConcreteProduct
+
+note right of ConcreteProduct:具体产品类。
+
+class ConcreteCreator
+
+Creator<|--ConcreteCreator
+
+abstract class Creator{
++ FactoryMethod();
+}
+
+note right of Creator:抽象创建类，也就是抽象工厂。
+
+ConcreteProduct<..ConcreteCreator
+
+note right of ConcreteCreator:具体工厂类。
+
+@enduml
