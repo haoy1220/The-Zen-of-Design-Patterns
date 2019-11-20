@@ -1,0 +1,45 @@
+@startuml
+class Client{
++ {static}public static void main(String[] args);
+}
+note left of Client:使用场景，调用上下文
+
+
+interface IStrategy{
++ public void operate();
+}
+
+note left of IStrategy:策略接口
+
+class Strategy1 implements IStrategy{
++ public void operate();
+}
+
+class Strategy2 implements IStrategy{
++ public void operate();
+}
+
+class Strategy3 implements IStrategy{
++ public void operate();
+}
+
+note bottom of Strategy1:具体策略实现
+
+class Context{
+- private IStrategy iStrategy;
++ public Context(IStrategy iStrategy);
++ public void operate();
+}
+
+note top of Context:挑选策略的上下文
+
+
+
+IStrategy <.. Context
+
+Context <.. Client
+
+
+
+
+@enduml

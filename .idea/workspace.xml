@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7d66787-b6e7-4a2e-b115-f5c0243e7b06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/依赖倒置原则/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/Emperor8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/MultiEmperor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/BackDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/BlockEnemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/GiveGreenLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/策略模式/IStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/notes/单例模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Singleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Singleton.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Strategy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Strategy.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/notes/面向对象的三大特性--继承、封装和多态.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/面向对象的三大特性--继承、封装和多态.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/里氏替换原则/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Benz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/依赖倒置原则/Benz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/依赖倒置原则/Bmw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/依赖倒置原则/Driver.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +42,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="UML Class" />
         <option value="Class" />
       </list>
     </option>
@@ -38,17 +59,20 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1TrKQ3CihACMJsg8jlT6feFl4JJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -59,6 +83,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="依赖倒置原则" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="单例模式" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -80,13 +107,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (3)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="依赖倒置原则.Client" />
       <module name="The-Zen-of-Design-Patterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="依赖倒置原则.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="策略模式.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="策略模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="单例模式.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="单例模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,6 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
@@ -129,18 +184,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8f0f5c90-faae-4849-825d-4e4035248a2a" name="Default Changelist" comment="" />
+      <changelist id="d7d66787-b6e7-4a2e-b115-f5c0243e7b06" name="Default Changelist" comment="" />
       <created>1573561055276</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573561055276</updated>
       <workItem from="1573561059647" duration="4416000" />
       <workItem from="1573661957728" duration="804000" />
+      <workItem from="1574212755610" duration="10779000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
