@@ -1,0 +1,24 @@
+@startuml
+
+class Client{
+}
+
+abstract class AbstractFactory{
++ CreateProduct();
+}
+Client-->AbstractFactory
+Client-->AbstractProduct
+
+class ConcreteFactory{
+}
+AbstractFactory<|--ConcreteFactory
+
+abstract class AbstractProduct{
+}
+
+class ConcreteProduct{
+}
+AbstractProduct<|--ConcreteProduct
+
+ConcreteFactory..>ConcreteProduct
+@enduml

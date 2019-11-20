@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4a457f5-8a08-4950-919c-622d0a71a700" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/EasyFactory.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/LazyFactory.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/MultiFactory.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/SingletonFactory.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/抽象工厂模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/AbstractFactory.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Factory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Factory.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Factory.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Factory.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Singleton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Singleton.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Singleton.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Singleton.puml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Strategy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Strategy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Strategy.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Strategy.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/依赖倒置原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/依赖倒置原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/单一职责原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/单一职责原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/工厂方法模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/开闭原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/开闭原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/接口隔离原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/接口隔离原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/迪米特原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/迪米特原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/里氏替换原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/里氏替换原则.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="UML Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="UML Class" />
       </list>
     </option>
   </component>
@@ -40,6 +40,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\23个设计模式" />
+      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\六大设计原则" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="工厂方法模式.女娲造人_多工厂模式" />
     </key>
