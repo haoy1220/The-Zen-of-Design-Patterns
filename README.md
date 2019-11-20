@@ -19,3 +19,7 @@
 5. [迪米特原则](./src/main/notes/迪米特原则.md)
 
 6. [开闭原则](./src/main/notes/开闭原则.md)
+
+#### 23个设计模式
+
+1. [单例模式](./src/main/notes/单例模式.md)
