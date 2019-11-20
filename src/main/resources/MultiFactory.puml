@@ -1,0 +1,48 @@
+@startuml
+
+interface Product
+note left of Product:负责定义产品的共性，\n实现对事物最抽象的定义。
+
+
+
+class ConcreteProduct1
+Product <|.. ConcreteProduct1
+note bottom of ConcreteProduct1:具体产品类。
+
+class ConcreteProduct2
+Product <|.. ConcreteProduct2
+
+class ConcreteProduct3
+Product <|.. ConcreteProduct3
+
+
+
+
+
+
+abstract class Creator{
++ {abstract}<T extends Product> T factoryMethod(Class<T> c);
+}
+note top of Creator:抽象创建类，也就是抽象工厂。
+
+
+class ConcreteCreator1{
+}
+note bottom of ConcreteCreator1:具体工厂类。
+Creator<|--ConcreteCreator1
+ConcreteProduct1<..ConcreteCreator1
+
+class ConcreteCreator2{
+}
+Creator<|--ConcreteCreator2
+ConcreteProduct2<..ConcreteCreator2
+
+class ConcreteCreator3{
+}
+Creator<|--ConcreteCreator3
+ConcreteProduct3<..ConcreteCreator3
+
+
+
+
+@enduml

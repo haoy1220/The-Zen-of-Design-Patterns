@@ -1,14 +1,14 @@
 @startuml
 
 class Client{
-+ {static} public static void main(String[] args);
++ {static} void main(String[] args);
 }
 
 class Singleton{
-- {static} static final Singleton singleton;
-- {static} static final Singleton singleton = new Singleton();
-- private Singleton();
-+ static Singleton getSingleton();
+- {static} final Singleton singleton;
+- {static} final Singleton singleton = new Singleton();
+- Singleton();
++ {static} Singleton getSingleton();
 }
 
 Singleton <-- Client

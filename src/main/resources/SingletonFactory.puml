@@ -1,0 +1,14 @@
+@startuml
+
+class Singleton{
+- Singleton();
++ void doSomething();
+}
+
+class SingletonFactory{
+- {static} Singleton singleton;
++ {static} Singleton getSingleton();
+}
+
+SingletonFactory o--> Singleton
+@enduml

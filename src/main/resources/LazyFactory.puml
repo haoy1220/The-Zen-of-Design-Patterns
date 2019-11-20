@@ -1,0 +1,23 @@
+@startuml
+
+class ProductFactory{
+- {static} final Map<String, Product> prMap = new HashMap<>();
++ {static} synchronized Product createProduct(String type);
+}
+
+class Product{
++ {abstract} void doSomething();
+}
+
+class ConcreteProduct1{
+}
+
+class ConcreteProduct2{
+}
+
+ConcreteProduct1 --|> Product
+
+ConcreteProduct2 --|> Product
+
+ProductFactory o--> Product
+@enduml

@@ -2,40 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4a457f5-8a08-4950-919c-622d0a71a700" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/General.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/单例工厂/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/单例工厂/SingletonFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/AbstractHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/BlackHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/HumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/WhiteHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/YellowHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/AbstractHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/BlackHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/BlackHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/WhiteHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/WhiteHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/YellowHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/YellowHumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/BlackHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/HumanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/WhiteHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/YellowHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ConcreteProduct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ConcreteProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Factory.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/EasyFactory.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/LazyFactory.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/MultiFactory.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SingletonFactory.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/notes/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/工厂方法模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Factory.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Factory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Factory.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Factory.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Singleton.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Singleton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Singleton.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Singleton.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Strategy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Strategy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Strategy.puml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Strategy.puml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +37,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="工厂方法模式.女娲造人_多工厂模式" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\resources" />
       <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\java\工厂方法模式\女娲造人_多工厂模式" />
       <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\java\工厂方法模式\女娲造人_简单工厂模式" />
     </key>
