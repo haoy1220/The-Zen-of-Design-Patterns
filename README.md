@@ -1,4 +1,4 @@
-# The-Zen-of-Design-Patterns  设计模式之禅
+# The-Zen-of-Design-Patterns/设计模式之禅
 
 [面向对象的三大特性--继承、封装和多态](./src/main/notes/面向对象的三大特性--继承、封装和多态.md)
 
