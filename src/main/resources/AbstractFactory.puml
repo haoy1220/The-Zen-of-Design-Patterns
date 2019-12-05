@@ -2,22 +2,27 @@
 
 class Client{
 }
+note right of Client:生产场景
 
 abstract class AbstractFactory{
 + CreateProduct();
 }
+note right of AbstractFactory:抽象工厂类
 Client-->AbstractFactory
 Client-->AbstractProduct
 
 class ConcreteFactory{
 }
+note right of ConcreteFactory:具体生产工厂类
 AbstractFactory<|--ConcreteFactory
 
 abstract class AbstractProduct{
 }
+note right of AbstractProduct:抽象产品类
 
 class ConcreteProduct{
 }
+note right of ConcreteProduct:具体产品类
 AbstractProduct<|--ConcreteProduct
 
 ConcreteFactory..>ConcreteProduct
