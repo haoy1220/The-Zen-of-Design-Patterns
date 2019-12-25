@@ -2,9 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0f5c90-faae-4849-825d-4e4035248a2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/The-Zen-of-Design-Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/依赖倒置原则/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/六大原则/依赖倒置原则/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/Emperor8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/Emperor8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/单例模式/MultiEmperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/单例模式/MultiEmperor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/General.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/General.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/单例工厂/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/单例工厂/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/单例工厂/SingletonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/单例工厂/SingletonFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/AbstractHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/AbstractHumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/BlackHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/BlackHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/HumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/HumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/WhiteHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/WhiteHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人/YellowHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人/YellowHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/AbstractHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/AbstractHumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/BlackHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/BlackHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/BlackHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/BlackHumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/WhiteHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/WhiteHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/WhiteHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/WhiteHumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/YellowHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/YellowHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_多工厂模式/YellowHumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_多工厂模式/YellowHumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/BlackHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/BlackHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/HumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/HumanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/WhiteHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/WhiteHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/女娲造人_简单工厂模式/YellowHuman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/女娲造人_简单工厂模式/YellowHuman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ConcreteProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/延迟加载工厂/ConcreteProduct1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ConcreteProduct2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/延迟加载工厂/ConcreteProduct2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/延迟加载工厂/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/工厂方法模式/延迟加载工厂/ProductFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/工厂方法模式/延迟加载工厂/ProductFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/开闭原则/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/六大原则/开闭原则/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/抽象工厂模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/创建型模式/抽象工厂模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/BackDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/BackDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/BlockEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/BlockEnemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/GiveGreenLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/GiveGreenLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/策略模式/IStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/二十三种设计模式/行为型模式/策略模式/IStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/里氏替换原则/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/六大原则/里氏替换原则/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/23个设计模式/单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/23个设计模式/工厂方法模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/工厂方法模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/23个设计模式/抽象工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/23个设计模式/抽象工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/六大设计原则/依赖倒置原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/依赖倒置原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/六大设计原则/开闭原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/开闭原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/六大设计原则/里氏替换原则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/六大设计原则/里氏替换原则.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/notes/设计模式的分类.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/notes/设计模式的分类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Factory.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/The-Zen-of-Design-Patterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Singleton.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Strategy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Strategy.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/class_diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/polymorphism.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/relationship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Benz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Bmw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/ICar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/依赖倒置原则/IDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor6$Holder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor8$EnumHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/Emperor8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/单例模式/MultiEmperor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/ConcreteCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/ConcreteProduct1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/ConcreteProduct2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/ConcreteProduct3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/General.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/AbstractHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/BlackHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/HumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/WhiteHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人/YellowHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/AbstractHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/BlackHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/BlackHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/WhiteHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/WhiteHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/YellowHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_多工厂模式/YellowHumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/BlackHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/HumanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/WhiteHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/工厂方法模式/女娲造人_简单工厂模式/YellowHuman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/开闭原则/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/开闭原则/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/开闭原则/NovelBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/开闭原则/OffNovelBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/BackDoor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/BlockEnemy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/GiveGreenLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/策略模式/IStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/里氏替换原则/Son.class" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,25 +149,13 @@
   <component name="DevPartner.ProjectWorkspace">
     <option name="runtimeAnalysisType" value="-1" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/MultiFactory.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="UML Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -49,82 +169,49 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="1UY05KerRRDah1udPg4w8s2s2hB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="The-Zen-of-Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Zen-of-Design-Patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Zen-of-Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Zen-of-Design-Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="The-Zen-of-Design-Patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="The-Zen-of-Design-Patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Coding-Interviews" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\23个设计模式" />
-      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\六大设计原则" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="代理模式._6_动态代理" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="工厂方法模式.女娲造人_多工厂模式" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\resources" />
       <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\java\工厂方法模式\女娲造人_多工厂模式" />
       <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\java\工厂方法模式\女娲造人_简单工厂模式" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="代理模式._6_动态代理" />
+      <recent name="工厂方法模式.女娲造人_多工厂模式" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\23个设计模式" />
+      <recent name="E:\IdeaProjects\The-Zen-of-Design-Patterns\src\main\notes\六大设计原则" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (5)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="工厂方法模式.女娲造人.Client" />
       <module name="The-Zen-of-Design-Patterns" />
@@ -151,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="工厂方法模式.女娲造人_多工厂模式.Client" />
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式._1_自己打游戏.Client" />
       <module name="The-Zen-of-Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="工厂方法模式.女娲造人_多工厂模式.*" />
+          <option name="PATTERN" value="代理模式._1_自己打游戏.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +252,76 @@
       </method>
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="单例模式.Client" />
+      <option name="MAIN_CLASS_NAME" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人.Client" />
       <module name="The-Zen-of-Design-Patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="单例模式.*" />
+          <option name="PATTERN" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人_简单工厂模式.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人_简单工厂模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人_多工厂模式.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二十三种设计模式.创建型模式.工厂方法模式.女娲造人_多工厂模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="代理模式._6_动态代理.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="代理模式._6_动态代理.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二十三种设计模式.结构型模式.代理模式._1_自己打游戏.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二十三种设计模式.结构型模式.代理模式._1_自己打游戏.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二十三种设计模式.结构型模式.代理模式._6_动态代理.Client" />
+      <module name="The-Zen-of-Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二十三种设计模式.结构型模式.代理模式._6_动态代理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +331,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (5)" />
+        <item itemvalue="Application.Client (4)" />
+        <item itemvalue="Application.Client (4)" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -207,48 +372,9 @@
       <workItem from="1575678880963" duration="400000" />
       <workItem from="1575771007740" duration="1456000" />
       <workItem from="1575784369290" duration="152000" />
+      <workItem from="1577274363854" duration="6173000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5038000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28150135" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Designer" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="PlantUML" order="9" visible="true" weight="0.31836462" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -259,12 +385,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -285,29 +406,26 @@
       </map>
     </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/EasyFactory.puml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/AbstractFactory.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Factory.puml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/LazyFactory.puml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/MultiFactory.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="724" height="210" key="GridCell.Tab.0.bottom" timestamp="1577289021677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577289021677" />
+    <state width="724" height="210" key="GridCell.Tab.0.center" timestamp="1577289021677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577289021677" />
+    <state width="724" height="210" key="GridCell.Tab.0.left" timestamp="1577289021676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577289021676" />
+    <state width="724" height="210" key="GridCell.Tab.0.right" timestamp="1577289021677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577289021677" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577280758860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1577280758860" />
   </component>
 </project>
